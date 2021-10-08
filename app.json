@@ -1,0 +1,14 @@
+{
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-apt.git"
+    },
+    {
+      "url": "heroku / python"
+    },
+    {
+      "url": "https://github.com/matt-bertoncello/python-pyodbc-buildpack.git" 
+
+    }
+  ]
+}

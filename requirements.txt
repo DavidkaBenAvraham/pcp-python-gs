@@ -1,0 +1,7 @@
+aiohttp
+pytelegrambotapi
+requests-oauthlib
+requests
+pyodbc
+pandas
+
